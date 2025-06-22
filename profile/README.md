@@ -16,7 +16,7 @@ The work from this project can be divded into four main parts:
 * Deep Reinforcement Learning
   * Training and ROS2 inference pipeline for Deep Rienforcement Learning (DRL) control policy of BlueROV2
   * Repos:
-    * Training: [DRL-Python](https://github.com/SAABmarine-MEX/DRL-Python) plus the two simulation repos mentioned above
+    * Training: [DRL-Python](https://github.com/SAABmarine-MEX/DRL-Python)
     * Inference: [saabmarineMEX_ros2](https://github.com/SAABmarine-MEX/saabmarineMEX_ros2)
 
 <!--

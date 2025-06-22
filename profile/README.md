@@ -9,7 +9,7 @@ The work from this project can be divded into four main parts:
   * Repo: [saabmarineMEX_ros2](https://github.com/SAABmarine-MEX/saabmarineMEX_ros2)
 * Simulation
   * BlueROV2 Unity-based simulation in SMaRCSim
-  * Repos: [SMARCUnityStandardRL](https://github.com/SAABmarine-MEX/SMARCUnityStandardRL), [SMARCUnityAssetsRL](https://github.com/SAABmarine-MEX/SMARCUnityAssetsRL) (both required, check respective readmes for installation guide) 
+  * Repos: [SMARCUnityStandardRL](https://github.com/SAABmarine-MEX/SMARCUnityStandardRL), [SMARCUnityAssetsRL](https://github.com/SAABmarine-MEX/SMARCUnityAssetsRL) (both required, check respective readme for installation guide) 
 * Residual Dynamic Modelling
   * Training and inference pipeline for enhancing the realism of simulated BlueROV2 dynamics
   * Repo: [DRL-Python](https://github.com/SAABmarine-MEX/DRL-Python)

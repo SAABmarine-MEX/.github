@@ -4,6 +4,8 @@
 
 The work from this project can be divded into four main parts:
 
+WIP:
+
 * ROS2
   * ROS2 based Ground Control Station (GCS) using Mavros for the BlueROV2
   * Repo: [saabmarineMEX_ros2](https://github.com/SAABmarine-MEX/saabmarineMEX_ros2)

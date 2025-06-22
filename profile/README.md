@@ -1,4 +1,23 @@
-## Hi there 👋
+# SAABmarine-MEX
+
+## Deep Reinforcement Learning and Residual Dynamic Modelling for BlueROV2
+
+The work from this project can be divded into four main parts:
+
+* ROS2
+  * ROS2 based Ground Control Station (GCS) using Mavros for the BlueROV2
+  * Repo: [saabmarineMEX_ros2](https://github.com/SAABmarine-MEX/saabmarineMEX_ros2)
+* Simulation
+  * BlueROV2 Unity-based simulation in SMaRCSim
+  * Repos: [SMARCUnityStandardRL](https://github.com/SAABmarine-MEX/SMARCUnityStandardRL), [SMARCUnityAssetsRL](https://github.com/SAABmarine-MEX/SMARCUnityAssetsRL) (both required, check respective readmes for installation guide) 
+* Residual Dynamic Modelling
+  * Training and inference pipeline for enhancing the realism of simulated BlueROV2 dynamics
+  * Repo: [DRL-Python](https://github.com/SAABmarine-MEX/DRL-Python)
+* Deep Reinforcement Learning
+  * Training and ROS2 inference pipeline for Deep Rienforcement Learning (DRL) control policy of BlueROV2
+  * Repos:
+    * Training: [DRL-Python](https://github.com/SAABmarine-MEX/DRL-Python) plus the two simulation repos mentioned above
+    * Inference: [saabmarineMEX_ros2](https://github.com/SAABmarine-MEX/saabmarineMEX_ros2)
 
 <!--
 

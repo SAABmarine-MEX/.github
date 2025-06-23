@@ -1,6 +1,5 @@
 # SAABmarine-MEX
-
-## Deep Reinforcement Learning and Residual Dynamic Modelling for BlueROV2
+## *Deep Reinforcement Learning and Residual Dynamic Modelling with ROS2 integration for BlueROV2*
 
 The work from this project can be divded into four main parts:
 

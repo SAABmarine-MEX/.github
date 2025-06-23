@@ -14,11 +14,11 @@ WIP:
   * Repos: [SMARCUnityStandardRL](https://github.com/SAABmarine-MEX/SMARCUnityStandardRL), [SMARCUnityAssetsRL](https://github.com/SAABmarine-MEX/SMARCUnityAssetsRL) (both required, check respective readme for installation guide) 
 * Residual Dynamic Modelling
   * Training and inference pipeline for enhancing the realism of simulated BlueROV2 dynamics
-  * Repo: [DRL-Python](https://github.com/SAABmarine-MEX/DRL-Python)
+  * Repo: [saabmarineMEX_learning](https://github.com/SAABmarine-MEX/DRL-Python)
 * Deep Reinforcement Learning
   * Training and ROS2 inference pipeline for Deep Rienforcement Learning (DRL) control policy of BlueROV2
   * Repos:
-    * Training: [DRL-Python](https://github.com/SAABmarine-MEX/DRL-Python)
+    * Training: [saabmarineMEX_learning](https://github.com/SAABmarine-MEX/DRL-Python)
     * Inference: [saabmarineMEX_ros2](https://github.com/SAABmarine-MEX/saabmarineMEX_ros2)
 
 <!--

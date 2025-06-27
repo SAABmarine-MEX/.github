@@ -1,5 +1,10 @@
 # SAABmarine-MEX
-## *Deep Reinforcement Learning and Residual Dynamic Modelling with ROS2 integration for BlueROV2*
+<!-- ## *Deep Reinforcement Learning and Residual Dynamic Modelling with ROS2 integration for BlueROV2* -->
+## *Reducing the sim-to-real gap of a BlueROV2*
+
+<img src="../real_mocap_sim.gif"/>
+This gif shows the setup that have enabled this whole project. Underwater mocap system (buttom left video), SMaRC's water tank at KTH (middle video) and simulation of the BlueROV2 ( buttom right video). With this setup, we are able to capture the real BlueROV2's exact motion and compare it against the simulated one. 
+
 
 The work from this project can be divded into four main parts:
 

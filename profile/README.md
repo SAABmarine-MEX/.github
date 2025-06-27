@@ -3,10 +3,16 @@
 ## *Reducing the sim-to-real gap of a BlueROV2*
 
 <img src="../real_mocap_sim.gif"/>
+
 This gif shows the setup that have enabled this whole project. Underwater mocap system (buttom left video), SMaRC's water tank at KTH (middle video) and simulation of the BlueROV2 ( buttom right video). With this setup, we are able to capture the real BlueROV2's exact motion and compare it against the simulated one. 
 
+Being able to measure the sim-to-real gap, this project explores a solution to reduce this gap, **Residual Dymamics Modelling**, by learning the residual. This method seeks to increase the realism of the simulation of the BlueROV2 while emphazaing computational efficiency to ensure real-time simulation capability.
 
-The work from this project can be divded into four main parts:
+This is then used for training a **Deep Reinforcement Learning** control policy with the purpose of enabling better sim-to-real transfer than the nominal simulation.
+
+## Implementation
+
+The implementation of this work can be divded into four main parts:
 
 * ROS2
   * ROS2 based Ground Control Station (GCS) using Mavros for the BlueROV2
